@@ -1,9 +1,1 @@
-{
-	"version": 3,
-	"file": "style.css",
-	"sources": [
-		"../sass/style.scss"
-	],
-	"names": [],
-	"mappings": ""
-}
+{"version":3,"sources":["../sass/style.scss"],"names":[],"mappings":"AAAA,gBAAgB;AAChB;EACI,kBAAiB;CACpB;;AACD;EACI,gBAAe;EACf,OAAM;EACN,YAAW;EACX,YAAW;CACd;;AACD;EACI,gBAAe;EACf,gBAAe;CAClB","file":"style.css"}

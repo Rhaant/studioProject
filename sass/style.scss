@@ -1,0 +1,14 @@
+/* Navigation */ 
+.navigation {
+    margin: 16px 32px;
+}
+.navigation ul{
+    position: fixed;
+    top: 0;
+    left: 700px;
+    width: 100%;
+}
+.navigation li {
+    display: inline;
+    padding: 0 12px;
+}
