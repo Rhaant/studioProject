@@ -1,17 +1,25 @@
-/* Navigation */
-.navigation {
-  margin: 16px 32px;
+/** GLOBAL **/
+body {
+  width: 1200px;
+  -ms-flex-pack: center;
+      justify-content: center;
 }
 
-.navigation ul {
+/** NAVIGATION **/
+.navbar p {
   position: fixed;
-  top: 0;
-  left: 700px;
-  width: 100%;
+  top: 20px;
 }
 
-.navigation li {
+.navbar ul {
   display: inline;
-  padding: 0 12px;
+  position: fixed;
+  top: 20px;
+}
+
+.navbar li {
+  display: inline;
+  float: left;
+  padding: 5px;
 }
 /*# sourceMappingURL=style.css.map */
