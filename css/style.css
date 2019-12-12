@@ -1,6 +1,5 @@
 /** GLOBAL **/
 body {
-  max-width: 1024px;
   margin: auto;
 }
 
@@ -46,7 +45,7 @@ body {
 /** SPLASH **/
 .banner {
   background-image: url("/images/background.png");
-  background-size: contain;
+  background-size: cover;
   background-blend-mode: darken;
   background-repeat: no-repeat;
   min-height: 512px;
